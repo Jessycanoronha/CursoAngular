@@ -5,7 +5,7 @@ Repositório para o curso de Angular do portal loiane.training
 # Aula 3
 Configuração do ambiente de desenvolvimento
 
-[NodeJS] - (https://nodejs.org)
+[NodeJS](https://nodejs.org)
 `Typescript` - npm install -g typescript
 `Angular CLI` - npm install -g @angular/cli
 
