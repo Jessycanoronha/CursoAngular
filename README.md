@@ -5,9 +5,9 @@ Repositório para o curso de Angular do portal loiane.training
 # Aula 3
 Configuração do ambiente de desenvolvimento
 
-NodeJS - `nodejs.org`
-Typescript - npm install -g typescript
-Angular CLI - npm install -g @angular/cli
+[NodeJS] - (https://nodejs.org)
+`Typescript` - npm install -g typescript
+`Angular CLI` - npm install -g @angular/cli
 
 ## ng --version 
 Vê se esta tudo ok.
@@ -23,8 +23,9 @@ Ex: ng g c meu primeiro-componente
 
 
 ## Rodar o projeto
-ng-serve
-Navegue para `http://localhost:4200/` . O app vai automaticamente recarregar caso haja qualquer mudança em seus arquivos
+`ng-serve`
+Navegue para `http://localhost:4200/` 
+O app vai automaticamente recarregar caso haja qualquer mudança em seus arquivos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
