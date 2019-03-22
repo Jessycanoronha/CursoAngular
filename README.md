@@ -1,14 +1,32 @@
 # PrimeiroProjeto
 
+Repositório para o curso de Angular do portal loiane.training
+
+# Aula 3
+Configuração do ambiente de desenvolvimento
+
+NodeJS - `nodejs.org`
+Typescript - npm install -g typescript
+Angular CLI - npm install -g @angular/cli
+
+## ng --version 
+Vê se esta tudo ok.
+
+## Criando o projeto
+ng new primeiro-projeto
+
+## Criando meu primeiro componente
+
+Para criar um componente, usa-se a seguinte sintaxe : 
+`ng generate component component-name`
+Ex: ng g c meu primeiro-componente
+
+
+## Rodar o projeto
+ng-serve
+Navegue para `http://localhost:4200/` . O app vai automaticamente recarregar caso haja qualquer mudança em seus arquivos
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
